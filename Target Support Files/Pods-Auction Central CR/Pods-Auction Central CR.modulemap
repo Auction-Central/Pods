@@ -1,0 +1,6 @@
+framework module Pods_Auction_Central_CR {
+  umbrella header "Pods-Auction Central CR-umbrella.h"
+
+  export *
+  module * { export * }
+}
